@@ -1,4 +1,4 @@
-package language.java.welcome;
+package java_language.welcome;
 
 /**
  * @author rancho

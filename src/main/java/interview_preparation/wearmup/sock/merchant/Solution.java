@@ -1,4 +1,4 @@
-package interview.preparation.wearmup.sock.merchant;
+package interview_preparation.wearmup.sock.merchant;
 
 import java.io.*;
 import java.math.*;
